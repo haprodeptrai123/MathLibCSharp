@@ -1,0 +1,5 @@
+D:\Projects\MathLib\bin\Debug\MathLib.dll
+D:\Projects\MathLib\bin\Debug\MathLib.pdb
+D:\Projects\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+D:\Projects\MathLib\obj\Debug\MathLib.dll
+D:\Projects\MathLib\obj\Debug\MathLib.pdb
